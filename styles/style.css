@@ -41,7 +41,7 @@ a {
   letter-spacing: 3.5px;
   text-align: center;
   text-transform: uppercase;
-  z-index: 1;
+  z-index: 2;
   margin: 60px auto 0;
   max-width: 720px;
 }
@@ -83,4 +83,5 @@ a {
   height: 100%;
   object-fit: cover;
   object-position: center;
+  z-index: 0;
 }
